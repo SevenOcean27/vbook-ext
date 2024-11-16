@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Darkness",
+    "description": "🧐"
+  },
+  "data": [
+    {
+    "name": "Top Truyện",
+      "author": "Darkness",
+      "path": "https://raw.githubusercontent.com/Darkness/Vbook-ext/main/toptruyenx.zip",
+      "version": 1,
+      "source": "https://www.toptruyento.pro/",
+      "icon": "https://www.toptruyento.pro/images/logo/top-truyen.png",
+      "description": "Đọc truyện trên trang Top Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+  }
+  ]
+}
