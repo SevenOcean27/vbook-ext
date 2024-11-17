@@ -10,7 +10,7 @@
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/plugin.zip",
       "version": 1,
       "source": "https://www.toptruyento.pro/",
-      "icon": "https://www.toptruyento.pro/images/logo/top-truyen.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/icon.png",
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"
