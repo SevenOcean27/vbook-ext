@@ -7,13 +7,35 @@
     {
     "name": "Top Truyện",
       "author": "Darkness",
-      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/plugin.zip",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/plugin.zip",
       "version": 1,
       "source": "https://www.toptruyento.pro/",
-      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/icon.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/icon.png",
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"
-  }
+    },
+    {
+        "name": "Vlog Truyện",
+        "author": "Darkness",
+        "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/vlogtruyen/plugin.zip",
+        "version": 1,
+        "source": "https://vlogtruyen34.com",
+        "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/vlogtruyen/icon.png",
+        "description": "Đọc truyện trên trang Vlog Truyện",
+        "type": "comic",
+        "locale": "vi_VN"
+    },
+    {
+        "name": "Bảo Tàng Truyện",
+        "author": "Darkness",
+        "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/baotangtruyen/plugin.zip",
+        "version": 1,
+        "source": "https://baotangtruyen21.com",
+        "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/baotangtruyen/icon.png",
+        "description": "Đọc truyện trên trang Bảo Tàng Truyện",
+        "type": "comic",
+        "locale": "vi_VN"
+    }
   ]
 }
