@@ -7,10 +7,10 @@
     {
       "name": "Top Truyện",
       "author": "Darkness",
-      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/plugin.zip",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/plugin.zip",
       "version": 2,
       "source": "https://www.toptruyento.pro/",
-      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/icon.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/icon.png",
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"
@@ -18,10 +18,10 @@
     {
       "name": "Vlog Truyện",
       "author": "Darkness",
-      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/vlogtruyen/plugin.zip",
       "version": 2,
       "source": "https://vlogtruyen34.com",
-      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/icon.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/vlogtruyen/icon.png",
       "description": "Đọc truyện trên trang Vlog Truyện",
       "type": "comic",
       "locale": "vi_VN"
@@ -29,10 +29,10 @@
     {
       "name": "Bảo Tàng Truyện",
       "author": "Darkness",
-      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/baotangtruyen/plugin.zip",
       "version": 2,
       "source": "https://baotangtruyen21.com",
-      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/icon.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/baotangtruyen/icon.png",
       "description": "Đọc truyện trên trang Bảo Tàng Truyện",
       "type": "comic",
       "locale": "vi_VN"
@@ -40,10 +40,10 @@
     {
       "name": "Truyện QQ",
       "author": "Darkness",
-      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenqq/plugin.zip",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/truyenqq/plugin.zip",
       "version": 2,
       "source": "https://truyenqqto.com",
-      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenqq/icon.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/truyenqq/icon.png",
       "description": "Đọc truyện trên trang Truyện QQ",
       "type": "comic",
       "locale": "vi_VN",
@@ -51,10 +51,10 @@
     {
       "name": "Truyen Hell",
       "author": "Darkness",
-      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/plugin.zip",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/truyenhell/plugin.zip",
       "version": 2,
       "source": "https://truyensex.moe/",
-      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/icon.png",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/truyenhell/icon.png",
       "description": "Đọc truyện trên trang truyensex.moe",
       "type": "novel",
       "locale": "vi_VN",
