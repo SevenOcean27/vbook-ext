@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Truyen Hell",
     "author": "Darkness",
-    "version": 1,
+    "version": 2,
     "source": "https://truyensex.moe/",
     "regexp": "truyen(heo|sex).*?/[^/]+/?$",
     "description": "Đọc truyện trên trang http://truyensex.moe",
