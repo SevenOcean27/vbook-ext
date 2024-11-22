@@ -44,7 +44,7 @@
       "version": 1,
       "source": "https://truyenqqto.com",
       "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenqq/icon.png",
-      "description": "Đọc truyện trên trang Truyện QQ"
+      "description": "Đọc truyện trên trang Truyện QQ",
       "type": "comic",
       "locale": "vi_VN",
     }
