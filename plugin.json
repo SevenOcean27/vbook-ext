@@ -16,29 +16,29 @@
       "locale": "vi_VN"
     },
     {
-        "name": "Vlog Truyện",
-        "author": "Darkness",
-        "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/plugin.zip",
-        "version": 1,
-        "source": "https://vlogtruyen34.com",
-        "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/icon.png",
-        "description": "Đọc truyện trên trang Vlog Truyện",
-        "type": "comic",
-        "locale": "vi_VN"
+    "name": "Vlog Truyện",
+      "author": "Darkness",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/plugin.zip",
+      "version": 1,
+      "source": "https://vlogtruyen34.com",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/icon.png",
+      "description": "Đọc truyện trên trang Vlog Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
     },
     {
-        "name": "Bảo Tàng Truyện",
-        "author": "Darkness",
-        "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/plugin.zip",
-        "version": 1,
-        "source": "https://baotangtruyen21.com",
-        "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/icon.png",
-        "description": "Đọc truyện trên trang Bảo Tàng Truyện",
-        "type": "comic",
-        "locale": "vi_VN"
+    "name": "Bảo Tàng Truyện",
+      "author": "Darkness",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/plugin.zip",
+      "version": 1,
+      "source": "https://baotangtruyen21.com",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/icon.png",
+      "description": "Đọc truyện trên trang Bảo Tàng Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
     },
     {
-      "name": "Truyện QQ",
+    "name": "Truyện QQ",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenqq/plugin.zip",
       "version": 1,
@@ -49,16 +49,16 @@
       "locale": "vi_VN",
     },
     {
-        "name": "Truyen Hell",
-        "author": "Darkness",
-        "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/plugin.zip",
-        "version": 1,
-        "source": "https://truyensex.moe/",
-        "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/icon.png",
-        "description": "Đọc truyện trên trang truyensex.moe",
-        "type": "novel",
-        "locale": "vi_VN",
-        "tag": "nsfw",
-    
+    "name": "Truyen Hell",
+      "author": "Darkness",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/plugin.zip",
+      "version": 1,
+      "source": "https://truyensex.moe/",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/icon.png",
+      "description": "Đọc truyện trên trang truyensex.moe",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw",
+    }
   ]
 }
