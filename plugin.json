@@ -47,6 +47,18 @@
       "description": "Đọc truyện trên trang Truyện QQ",
       "type": "comic",
       "locale": "vi_VN",
-    }
+    },
+    {
+        "name": "Truyen Hell",
+        "author": "Darkness",
+        "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/plugin.zip",
+        "version": 1,
+        "source": "https://truyensex.moe/",
+        "icon": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/icon.png",
+        "description": "Đọc truyện trên trang truyensex.moe",
+        "type": "novel",
+        "locale": "vi_VN",
+        "tag": "nsfw",
+    
   ]
 }

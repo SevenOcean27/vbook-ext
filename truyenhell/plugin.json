@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Truyen Hell",
+    "author": "Darkness",
+    "version": 1,
+    "source": "https://truyensex.moe/",
+    "regexp": "truyen(heo|sex).*?/[^/]+/?$",
+    "description": "Đọc truyện trên trang http://truyensex.moe",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "search": "search.js",
+    "genre": "genre.js"
+  }
+}

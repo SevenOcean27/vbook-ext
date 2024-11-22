@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://vlogtruyen34.com",
     "regexp": "(www.)?vlogtruyen\\d+.*?/[^/]+.html",
-    "description": "Đọc truyện tại https://vlogtruyen33.com",
+    "description": "Đọc truyện tại Vlog Truyen",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "comic"

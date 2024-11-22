@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://baotangtruyen21.com",
     "regexp": "https://baotangtruyen21.com/truyen-tranh/[0-9a-z-]+/?$",
-    "description": "Web Đọc Truyện Tranh Online lớn nhất VN ✔",
+    "description": "Đọc truyện trên trang Bảo Tàng Truyện",
     "locale": "vi-VN",
     "language": "javascript",
     "type": "comic"
