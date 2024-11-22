@@ -5,7 +5,7 @@
   },
   "data": [
     {
-    "name": "Top Truyện",
+      "name": "Top Truyện",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/toptruyenx/plugin.zip",
       "version": 1,
@@ -16,7 +16,7 @@
       "locale": "vi_VN"
     },
     {
-    "name": "Vlog Truyện",
+      "name": "Vlog Truyện",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/vlogtruyen/plugin.zip",
       "version": 1,
@@ -27,7 +27,7 @@
       "locale": "vi_VN"
     },
     {
-    "name": "Bảo Tàng Truyện",
+      "name": "Bảo Tàng Truyện",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/baotangtruyen/plugin.zip",
       "version": 1,
@@ -38,7 +38,7 @@
       "locale": "vi_VN"
     },
     {
-    "name": "Truyện QQ",
+      "name": "Truyện QQ",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenqq/plugin.zip",
       "version": 1,
@@ -49,7 +49,7 @@
       "locale": "vi_VN",
     },
     {
-    "name": "Truyen Hell",
+      "name": "Truyen Hell",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/Vbook-ext/main/truyenhell/plugin.zip",
       "version": 1,
