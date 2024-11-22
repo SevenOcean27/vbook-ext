@@ -46,7 +46,7 @@
       "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/truyenqq/icon.png",
       "description": "Đọc truyện trên trang Truyện QQ",
       "type": "comic",
-      "locale": "vi_VN",
+      "locale": "vi_VN"
     },
     {
       "name": "Truyen Hell",
@@ -58,7 +58,7 @@
       "description": "Đọc truyện trên trang truyensex.moe",
       "type": "novel",
       "locale": "vi_VN",
-      "tag": "nsfw",
+      "tag": "nsfw"
     }
   ]
 }
