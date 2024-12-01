@@ -1,7 +1,7 @@
 {
   "metadata": {
     "author": "Darkness",
-    "description": "🧐"
+    "description": "⑦"
   },
   "data": [
     {
@@ -58,6 +58,29 @@
       "description": "Đọc truyện trên trang truyensex.moe",
       "type": "novel",
       "locale": "vi_VN",
+      "tag": "nsfw"
+    }
+    {
+        "name": "Vozer",
+        "author": "Darkness",
+        "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/vozer/plugin.zip",
+        "version": 2,
+        "source": "https://vozer.vn/",
+        "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/vozer/icon.png",
+        "description": "Truyện Voz.",
+        "type": "novel",
+        "locale": "vi_VN"
+    }
+    {
+      "name": "3Hentai",
+      "author": "Darkness",
+      "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/3hentai/plugin.zip",
+      "version": 2,
+      "source": "https://3hentai.net",
+      "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/3hentai/icon.png",
+      "description": "Đọc truyện trên trang 3Hentai",
+      "type": "comic",
+      "locale": "en_US",
       "tag": "nsfw"
     }
   ]

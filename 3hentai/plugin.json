@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "3Hentai",
+    "author": "Darkness",
+    "version": 2,
+    "source": "https://3hentai.net",
+    "regexp": "(www.)?3hentai.net/g/\\d+/?$",
+    "description": "Đọc truyện trên trang 3Hentai",
+    "locale": "locale",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
