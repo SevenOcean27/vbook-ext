@@ -1,5 +1,5 @@
-let BASE_URL = 'https://www.toptruyentv.net';
-let BASE_URL1 = 'https://toptruyen28.net'
+let BASE_URL = 'https://www.toptruyen369.net';
+let BASE_URL1 = 'https://toptruyentv.net'
 try {
     if (CONFIG_URL) {
         BASE_URL = CONFIG_URL;
