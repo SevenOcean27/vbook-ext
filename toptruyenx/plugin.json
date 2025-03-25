@@ -2,9 +2,9 @@
   "metadata": {
     "name": "Top Truyện",
     "author": "Darkness",
-    "version": 8,
-    "source": "https://www.toptruyentv2.pro/",
-    "regexp": "(www\.)?(toptruyentv2\.pro|toptruyentv\.pro)/truyen-tranh/(.*?)/(.*?)",
+    "version": 9,
+    "source": "https://www.toptruyentv3.pro/",
+    "regexp": "(www\.)?(toptruyentv3\.pro|toptruyentv2\.pro)/truyen-tranh/(.*?)/(.*?)",
     "description": "",
     "locale": "vi_VN",
     "language": "javascript",
