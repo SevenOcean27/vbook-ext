@@ -1,4 +1,4 @@
-const BASE_URL = 'https://vlogtruyen34.com';
+const BASE_URL = 'https://vlogtruyen50.com';
 try {
     if (CONFIG_URL) {
         BASE_URL = CONFIG_URL;

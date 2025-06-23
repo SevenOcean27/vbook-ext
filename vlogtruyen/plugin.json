@@ -2,8 +2,8 @@
   "metadata": {
     "name": "Vlog Truyện",
     "author": "Darkness",
-    "version": 2,
-    "source": "https://vlogtruyen34.com",
+    "version": 3,
+    "source": "https://vlogtruyen50.com",
     "regexp": "(www.)?vlogtruyen\\d+.*?/[^/]+.html",
     "description": "Đọc truyện tại Vlog Truyen",
     "locale": "vi_VN",
