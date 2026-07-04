@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Top Truyện",
     "author": "Darkness",
-    "version": 26,
+    "version": 27,
     "source": "https://www.toptruyenzone6.com/",
     "regexp": "(www\.)?(toptruyenzone6\.com|toptruyenzone6\.com)/truyen-tranh/(.*?)/(.*?)",
     "description": "",
