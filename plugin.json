@@ -8,15 +8,9 @@
       "name": "Top Truyện",
       "author": "Darkness",
       "path": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/plugin.zip",
-<<<<<<< HEAD
       "version": 28,
       "source": "https://www.toptruyenzone7.com/",
       "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/icon.png",
-=======
-      "version": 27,
-      "source": "https://www.toptruyenzone6.com/",
-        "icon": "https://raw.githubusercontent.com/SevenOcean27/vbook-ext/main/toptruyenx/icon.png",
->>>>>>> 4fef11c737361b4e41ecadace38787ef43ba94c7
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"
